@@ -34,16 +34,22 @@ Sou estudante da área de tecnologia, interessado em desenvolvimento de software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-##
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/PedroMesquitaCode/PedroMesquitaCode/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
-<h2 align="center">Minhas Contribuições</h2>
+<h2 align="left">Minhas Contribuições</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PedroMesquitaCode/PedroMesquitaCode/output/pacman-contribution-graph.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PedroMesquitaCode/PedroMesquitaCode/output/pacman-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PedroMesquitaCode/PedroMesquitaCode/output/pacman-contribution-graph.svg">
+
+    <img alt="Pac-Man Contributions"
+      src="https://raw.githubusercontent.com/PedroMesquitaCode/PedroMesquitaCode/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
 </p>
 
 ###
