@@ -36,7 +36,7 @@ Sou estudante da área de tecnologia, interessado em desenvolvimento de software
 
 ###
 
-<h2 align="left">Minhas Contribuições</h2>
+<h2 align="left">💻 Minhas Contribuições</h2>
 
 <p align="center">
   <picture>
