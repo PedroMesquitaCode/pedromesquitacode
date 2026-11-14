@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Pedro Mesquita
 
-### 💻 Estudante de Tecnologia | Desenvolvedor em formação
+### 👨🏽‍💻 Estudante de Tecnologia | Desenvolvedor em formação
 
 
 Sou estudante da área de tecnologia, interessado em desenvolvimento de software, programação e inovação. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades como desenvolvedor.
